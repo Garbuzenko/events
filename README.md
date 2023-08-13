@@ -1,7 +1,7 @@
 # Домашнее задание к занятию "3.Обработка событий"
-![CI](https://github.com/garbuzenko/events/actions/workflows/web.yml/badge.svg)
 
-**CI** [![Build status](https://ci.appveyor.com/api/projects/status/9qdfms1sr1r3pnly?svg=true)](https://ci.appveyor.com/project/garbuzenko/events)    [GitHub Pages](https://garbuenko.github.io/events/)
+
+**CI** [![Build status](https://ci.appveyor.com/api/projects/status/9qdfms1sr1r3pnly?svg=true)](https://ci.appveyor.com/project/Garbuzenko/events)    [GitHub Pages](https://garbuenko.github.io/events/)
 
 Правила сдачи задания:
 
