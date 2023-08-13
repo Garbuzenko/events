@@ -14,7 +14,7 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "author": "kievsan",
+  "author": "garbuzenko",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
@@ -44,5 +44,6 @@
     "push-dir": "^0.4.1",
     "typescript": "^5.0.4",
     "yarn": "^1.22.19"
-  }
+  },
+  "repository": "https://github.com/Garbuzenko/events.git"
 }
