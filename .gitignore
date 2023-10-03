@@ -2,7 +2,7 @@ dist
 doc
 .vscode
 .idea
-
+.npmrc
 # Logs
 logs
 *.log
